@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://www.canva.com/design/DAGseCveY20/4jB5PINiK6oIjM2T05ptKQ/view?utm_content=DAGseCveY20&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9012b1f637" alt="Banner" style="width: 100%" />
+<img src="https://github.com/Bishallk/bishallk/blob/master/Bishal_banner.gif" alt="Banner" style="width: 100%" />
 
-# 👋 I'm Bishal Kunwar  
 </div>
-
+<br>
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishallk)
