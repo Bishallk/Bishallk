@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Bishallk/bishallk/blob/master/Bishal_banner.gif" alt="Banner" style="width: 100%" />
+<img src="https://github.com/Bishallk/bishallk/blob/master/Bishal_Kunwar_Banner.gif" alt="Banner" style="width: 100%" />
 
 </div>
 <br>
