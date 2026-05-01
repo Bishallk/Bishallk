@@ -38,14 +38,6 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishallk&show_icons=true&count_private=true&hide_border=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishallk&layout=compact&hide_border=true&theme=radical" width="47%" />
-</div>
-
----
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bishallk&style=flat-square" alt="profile views"/>
